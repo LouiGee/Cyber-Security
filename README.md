@@ -1,8 +1,8 @@
-# Deep Learning
+# Cyber-Security
 
 ## Target hours revision 
-**Target**: 150 \
-**Current**: 
+**Target**: 150 
+**Current**: 3
 **Hours per day needed**: ?
 
 ## Exam Structure 
